@@ -1,7 +1,7 @@
 # Privacy Policy — Hermes AI Assistant
 
 Hermes AI Assistant is a personal automation tool built and used solely by its 
-developer (YOUJONG) for private, non-commercial use.
+developer (Joe) for private, non-commercial use.
 
 ## Data Accessed
 - Google Calendar (read-only): to generate daily/next-day schedule briefings.
