@@ -17,4 +17,4 @@ Access tokens are stored locally on the developer's own machine and are not
 transmitted to any external service beyond Google's own APIs.
 
 ## Contact
-For questions, contact: [본인 이메일 주소]
+For questions, contact: [qkqhwktylr@naver.com]
